@@ -12,3 +12,8 @@ Ref: https://hackmd.io/@jackchen/rkNRwuLmI
    ssh-keygen -t rsa -b 4096 -m PEM -f jwtRS256.key
    ssh-keygen -e -m PEM -f jwtRS256.key > jwtRS256.key.pub
   ```
+
+## Addressable
+
+https://hackmd.io/@kcy0314/B1UIqxQht
+https://hackmd.io/@kcy0314/HJn5zOT-q
